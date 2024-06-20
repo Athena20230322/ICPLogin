@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML203VerifyAccount.KeyExchange.TestLibrary", "ML203VerifyAccount.KeyExchange.TestLibrary.csproj", "{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML203VerifyAccount.KeyExchange.TestLibrary.Test", "..\ICP.KeyExchange.TestLibrary.Test\ML203VerifyAccount.KeyExchange.TestLibrary.Test.csproj", "{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML203VerifyAccount", "..\ConsoleApp1\ML203VerifyAccount.csproj", "{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Debug|x64.ActiveCfg = Debug|x64
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Debug|x64.Build.0 = Debug|x64
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Release|Any CPU.ActiveCfg = Release|x64
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Release|Any CPU.Build.0 = Release|x64
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Release|x64.ActiveCfg = Release|x64
+		{2DE16D15-ED56-45C2-83FA-B01B3DF5F12B}.Release|x64.Build.0 = Release|x64
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Debug|x64.ActiveCfg = Debug|x64
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Debug|x64.Build.0 = Debug|x64
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Release|x64.ActiveCfg = Release|x64
+		{DDFB04CD-0EF3-4DC1-B52E-2753133C56AA}.Release|x64.Build.0 = Release|x64
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Debug|x64.Build.0 = Debug|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Release|x64.ActiveCfg = Release|x64
+		{66CF6FF8-7296-43B8-A8F2-B04DCBD5635A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2F305C-5E58-40C3-881F-1648673D3301}
+	EndGlobalSection
+EndGlobal

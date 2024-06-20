@@ -1,0 +1,204 @@
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csprojAssemblyReference.cache
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Users\adan.yao\Desktop\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\icashendurance\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\GetToken\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\GetToken-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Login-and change mobile\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\Login-and ParserQrCode\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll.config
+C:\ML201SendOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll.config
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll.config
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.Test.pdb
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\ICP.KeyExchange.TestLibrary.dll.config
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\Newtonsoft.Json.xml
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\bin\Debug\System.ValueTuple.xml
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.AssemblyReference.cache
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CoreCompileInputs.cache
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\GetToken.KeyExchange.TestLibrary.Test.csproj.CopyComplete
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary.Test\obj\Debug\ICP.KeyExchange.TestLibrary.Test.pdb

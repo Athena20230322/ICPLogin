@@ -1,0 +1,4 @@
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary\obj\Debug\ML202VerifyOTP.KeyExchange.TestLibrary.csproj.AssemblyReference.cache
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary\obj\Debug\ML202VerifyOTP.KeyExchange.TestLibrary.csproj.CoreCompileInputs.cache
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary\obj\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\ML202VerifyOTP\ICP.KeyExchange.TestLibrary\obj\Debug\ICP.KeyExchange.TestLibrary.pdb

@@ -302,7 +302,7 @@ namespace ICP.KeyExchange.TestLibrary.Test
         {
             generateAES();
       
-               string url = "/MemberInfo/UserCodeLogin2022";
+               string url = "/app/MemberInfo/UserCodeLogin2022";
                string url71 = "/app/Payment/GetAvailableBalance";
                string url72 = "/app/Payment/GetMemberPaymentInfo";
                string url73 = "/app/MemberInfo/GetEInvoiceCarrierInfo";
@@ -323,8 +323,8 @@ namespace ICP.KeyExchange.TestLibrary.Test
             {
                 Timestamp = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"),
                 LoginType = "1",
-                UserCode = "icppost3",
-                UserPwd = "1qaz2wsx",
+                UserCode = "tester1851",
+                UserPwd = "Aa123456",
                 SMSAuthCode = System.IO.File.ReadAllText(@"C:\IcashPost\ICPLogin\M0007_2\ConsoleApp1\bin\Debug\authcode.txt")
               
                
@@ -443,7 +443,7 @@ namespace ICP.KeyExchange.TestLibrary.Test
                 Timestamp = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"),
                 PayID = "11682311000002951",
                 PaymentType = "1"
-               # Token = System.IO.File.ReadAllText(@"C:\IcashPost\NEWICPAPI\NewLogin\ML202\ConsoleApp1\bin\Debug\ntoken.txt")
+              
 
 
             };

@@ -221,7 +221,7 @@ namespace ICP.KeyExchange.TestLibrary.Test
             //// 输出AuthCode的值
             Console.WriteLine(authCode);
 
-            //// 将AuthCode写入AuthCode.txt文件
+            //// 將AuthCode寫入AuthCode.txt文件
             File.WriteAllText("logintokenid.txt", authCode);
 
 
@@ -241,8 +241,8 @@ namespace ICP.KeyExchange.TestLibrary.Test
             var request1 = new
             {
                 Timestamp = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"),
-                CellPhone = "0911111113"
-              
+                CellPhone = "0976100004"
+
             };
             string decryptContent1 = null;
             string response1 = callNormalApi(url, request1, ref decryptContent1);

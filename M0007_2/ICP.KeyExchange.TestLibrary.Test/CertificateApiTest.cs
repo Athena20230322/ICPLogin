@@ -252,10 +252,12 @@ namespace ICP.KeyExchange.TestLibrary.Test
             var request1 = new
             {
                 Timestamp = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"),
-                CellPhone = "0911111113",
+                CellPhone = "0976100004",
                 SMSAuthType = 5,
+                UserCode = "",
+               // IDNo = "B198052452",
                 //AuthCode = "114972",
-                LoginTokenID = System.IO.File.ReadAllText(@"C:\IcashPost\ICPLogin\M0001_1\ConsoleApp1\bin\Debug\logintokenid.txt"),
+                LoginTokenID = System.IO.File.ReadAllText(@"C:\IcashPost\ICPLogin\M0001_1\ConsoleApp1\bin\Debug\logintokenid.txt")
                
 
             };

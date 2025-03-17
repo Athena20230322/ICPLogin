@@ -1,0 +1,13 @@
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\ICP.KeyExchange.TestLibrary.pdb
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\obj\x64\Debug\ICP.KeyExchange.TestLibrary.csprojAssemblyReference.cache
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\obj\x64\Debug\ICP.KeyExchange.TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\obj\x64\Debug\ICP.KeyExchange.TestLibrary.csproj.CopyComplete
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\obj\x64\Debug\ICP.KeyExchange.TestLibrary.dll
+C:\Users\shihyu\Desktop\ICP.KeyExchange.TestLibrary\ICP.KeyExchange.TestLibrary\obj\x64\Debug\ICP.KeyExchange.TestLibrary.pdb
